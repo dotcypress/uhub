@@ -1,6 +1,6 @@
 ## μHub
 
-<img width="500" src="fab/uhub.png" />
+<img width="500" src="fab/uhub.jpg" />
 
 ### What is it?
 
@@ -10,13 +10,13 @@
 
 * Internal Speakers Support
 * 3 Type-C (USB 2.0) ports with power switch and overcurrent protection
-* 1 internal FFC (USB 2.0) port with power switch and overcurrent protection
+* 1 Internal FFC (USB 2.0) port with power switch and overcurrent protection
 
 <a href="https://www.tindie.com/stores/quadbit"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 ## Resources
 
-- [Cover bracket 3D model](fab/cover.stl)
+- [Cover Bracket 3D model](fab/cover.stl)
 - [Schematics](fab/uhub.pdf)
 - [PCB Viewer](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fdotcypress%2Fuhub%2Fblob%2Fmain%2Fuhub.kicad_pcb)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/dotcypress/uhub/blob/main/fab/ibom.html)
