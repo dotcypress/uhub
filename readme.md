@@ -9,8 +9,8 @@
 ### Features
 
 * Internal Speakers Support
-* 3 Type-C (USB 2.0) ports with programmable power switch and overcurrent protection
-* 1 internal FFC USB 2.0 port with programmable power switch and overcurrent protection
+* 3 Type-C (USB 2.0) ports with power switch and overcurrent protection
+* 1 internal FFC (USB 2.0) port with power switch and overcurrent protection
 
 <a href="https://www.tindie.com/stores/quadbit"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
