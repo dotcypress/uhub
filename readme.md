@@ -1,6 +1,6 @@
 ## μHub
 
-<img width="500" src="fab/uhub.jpg" />
+<img width="500" src="docs/uhub.jpg" />
 
 ### What is it?
 
@@ -16,10 +16,10 @@
 
 ## Resources
 
-- [Cover Bracket 3D model](fab/cover.stl)
-- [Schematics](fab/uhub.pdf)
+- [Cover Bracket 3D model](docs/cover.stl)
+- [Schematics](docs/uhub.pdf)
 - [PCB Viewer](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fdotcypress%2Fuhub%2Fblob%2Fmain%2Fuhub.kicad_pcb)
-- [Interactive BOM](https://htmlpreview.github.io/?https://github.com/dotcypress/uhub/blob/main/fab/ibom.html)
+- [Interactive BOM](https://htmlpreview.github.io/?https://github.com/dotcypress/uhub/blob/main/docs/ibom.html)
 
 ## License
 
