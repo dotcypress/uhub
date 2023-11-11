@@ -3,9 +3,9 @@ epsilon=0.01;
 
 module usb() {
   hull() {
-    translate([3, 0, 0])
+    translate([3.2, 0, 0])
       cylinder(r=1.9, h=20, center=true);
-    translate([-3, 0, 0])
+    translate([-3.2, 0, 0])
       cylinder(r=1.9, h=20, center=true);
   }
 }
@@ -17,9 +17,9 @@ module cover() {
       translate([0, 0, 1])
         cube(size=[55, 9.5, 1.8], center=true);
     }
-    translate([-19.2, 1.7, 0]) usb();
+    translate([-19.35, 1.7, 0]) usb();
     translate([0, 1.7, 0]) usb();
-    translate([19.2, 1.7, 0]) usb();
+    translate([19.35, 1.7, 0]) usb();
   }
 }
 
